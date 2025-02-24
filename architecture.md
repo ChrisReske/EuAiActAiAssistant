@@ -15,7 +15,11 @@ The chatbot is structured into **three main components**:
 - **Render** – Original cloud deployment.
 - **Pinecone** – Vector database for retrieval.
 
-## Architecture Diagram
+## Architecture Diagrams
 
-A high-level overview of the chatbot’s data flow:
 
+Below is a high-level schematic of the Assistant's architecture:
+[Schematic Assistant Architecture](/images/chatbot_schema.jpg)
+
+Here is a screenshot of the **Flowise** interface used to configure the chatbot:
+[Flowise Gui](/images/chatbot_flowise_architecture.png)
