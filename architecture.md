@@ -19,7 +19,7 @@ The chatbot is structured into **three main components**:
 
 
 Below is a high-level schematic of the Assistant's architecture:
-[Schematic Assistant Architecture](/images/chatbot_schema.jpg)
+![Schematic Assistant Architecture](/images/chatbot_schema.jpg)
 
 Here is a screenshot of the **Flowise** interface used to configure the chatbot:
-[Flowise Gui](/images/chatbot_flowise_architecture.png)
+![Flowise Gui](/images/chatbot_flowise_architecture.png)
